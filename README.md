@@ -4,9 +4,9 @@ Jupyter notebook notes and some Python implementations of basic algorithms based
 
 ** Contents **
 
-- Union Find
-- Stacks and queues
-- Elementary sorts
-- Mergesort
-- Quicksort
-- Priority queues and heapsort
+- [Union Find](./UnionFind/unionFind.ipynb)
+- [Stacks and queues](./StacksAndQueues/StacksAndQueues.ipynb)
+- [Elementary sorts](./ElementarySorts/ElementarySorts.ipynb)
+- [Mergesort](./Mergesort/Mergesort.ipynb)
+- [Quicksort](./Quicksort/Quicksort.ipynb)
+- [Priority queues and Heapsort](./PriorityQueues/PriorityQueues.ipynb)
