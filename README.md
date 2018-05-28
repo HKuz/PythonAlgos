@@ -10,3 +10,10 @@ Jupyter notebook notes and some Python implementations of basic algorithms based
 - [Mergesort](./Mergesort/Mergesort.ipynb)
 - [Quicksort](./Quicksort/Quicksort.ipynb)
 - [Priority queues and Heapsort](./PriorityQueues/PriorityQueues.ipynb)
+<!--
+- [Elementary Symbol Tables]()
+- [Balanced Search Trees]()
+- [Hash Tables]()
+-->
+
+
