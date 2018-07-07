@@ -4,15 +4,16 @@ Course notes and Python implementations of basic algorithms based on the Courser
 
 ** Contents **
 
+- [How to Analyze Algorithms](./AnalysisOfAlgorithms.ipynb)
 - [Union Find](./UnionFind/unionFind.ipynb)
-- [Stacks and queues](./StacksAndQueues/StacksAndQueues.ipynb)
-- [Elementary sorts](./ElementarySorts/ElementarySorts.ipynb)
+- [Stacks and Queues](./StacksAndQueues/StacksAndQueues.ipynb)
+- [Elementary Sorts](./ElementarySorts/ElementarySorts.ipynb)
 - [Mergesort](./Mergesort/Mergesort.ipynb)
 - [Quicksort](./Quicksort/Quicksort.ipynb)
-- [Priority queues and Heapsort](./PriorityQueues/PriorityQueues.ipynb)
+- [Priority Queues and Heapsort](./PriorityQueues/PriorityQueues.ipynb)
 - [Elementary Symbol Tables and Binary Search Trees](./ElementarySymbolTablesBST/ElemSymbolTablesBST.ipynb)
+- [Balanced Search Trees](./BalancedSearchTrees/BalancedSearchTrees.ipynb)
 <!--
-- [Balanced Search Trees]()
 - [Hash Tables]()
 -->
 
