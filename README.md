@@ -4,15 +4,15 @@ Course notes and Python implementations of basic algorithms based on the Courser
 
 ** Contents **
 
-- [How to Analyze Algorithms](./AnalysisOfAlgorithms.ipynb)
-- [Union Find](./UnionFind/unionFind.ipynb)
-- [Stacks and Queues](./StacksAndQueues/StacksAndQueues.ipynb)
-- [Elementary Sorts](./ElementarySorts/ElementarySorts.ipynb)
-- [Mergesort](./Mergesort/Mergesort.ipynb)
-- [Quicksort](./Quicksort/Quicksort.ipynb)
-- [Priority Queues and Heapsort](./PriorityQueues/PriorityQueues.ipynb)
-- [Elementary Symbol Tables and Binary Search Trees](./ElementarySymbolTablesBST/ElemSymbolTablesBST.ipynb)
-- [Balanced Search Trees](./BalancedSearchTrees/BalancedSearchTrees.ipynb)
+- [How to Analyze Algorithms](./00_AnalysisOfAlgorithms.ipynb)
+- [Union Find](./01_UnionFind/unionFind.ipynb)
+- [Stacks and Queues](./02_StacksAndQueues/StacksAndQueues.ipynb)
+- [Elementary Sorts](./03_ElementarySorts/ElementarySorts.ipynb)
+- [Mergesort](./04_Mergesort/Mergesort.ipynb)
+- [Quicksort](./05_Quicksort/Quicksort.ipynb)
+- [Priority Queues and Heapsort](./06_PriorityQueues/PriorityQueues.ipynb)
+- [Elementary Symbol Tables and Binary Search Trees](./07_ElementarySymbolTablesBST/ElemSymbolTablesBST.ipynb)
+- [Balanced Search Trees](./08_BalancedSearchTrees/BalancedSearchTrees.ipynb)
 <!--
 - [Hash Tables]()
 -->
